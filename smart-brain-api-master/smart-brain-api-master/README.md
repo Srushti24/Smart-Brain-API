@@ -1,4 +1,4 @@
-his is the api for the smartbrain project using nodejs and expressjs
+This is the api for the smartbrain project using nodejs and expressjs
 
 This api consists of end points such as
 
